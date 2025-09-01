@@ -64,6 +64,4 @@ Create an interactive dashboard (Power BI / Streamlit).
 
 Mohd Umair
 
-Aspiring Data Scientist | Skilled in Python, SQL, Excel, Power BI, and Machine Learning
-
-LinkedIn: mohd-umair-658a7135b
+LinkedIn: https://www.linkedin.com/in/mohd-umair-658a7135b/
